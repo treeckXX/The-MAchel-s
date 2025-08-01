@@ -168,7 +168,11 @@
                 <div class="video-card bg-white rounded-lg overflow-hidden shadow-md hover:shadow-xl transition duration-300">
                     <div class="relative pb-[56.25%] bg-gray-200">
                         <!-- Replace with your actual video embed code -->
-                        <iframe class="absolute top-0 left-0 w-full h-full" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <video width="640" height="360" controls>
+  <source src="video1.mp4" type="video/mp4">
+  Dein Browser unterstützt das Video-Tag nicht.
+</video>
+
                     </div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold mb-2">Summer Vacation 2023</h3>
