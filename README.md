@@ -167,12 +167,11 @@
                 <!-- Video 1 -->
                 <div class="video-card bg-white rounded-lg overflow-hidden shadow-md hover:shadow-xl transition duration-300">
                     <div class="relative pb-[56.25%] bg-gray-200">
-                        <!-- Replace with your actual video embed code -->
-                        <video width="640" height="360" controls>
-  <source src="video1.mp4" type="video/mp4">
-  Dein Browser unterstützt das Video-Tag nicht.
-</video>
-
+                         <video width="640" height="360" controls>  
+                         <source src="video1.mp4" type="video/mp4">
+                          Dein Browser unterstützt das Video-Tag nicht.
+                         </video>
+                    
                     </div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold mb-2">Summer Vacation 2023</h3>
